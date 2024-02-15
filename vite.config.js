@@ -1,5 +1,5 @@
 export default defineConfig({
-    base: '/test_kokoc/',
+    base: '/',
     build: {
       rollupOptions: {
         // https://rollupjs.org/configuration-options/
